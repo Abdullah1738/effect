@@ -1,5 +1,14 @@
 # @effect/platform-bun
 
+## 4.0.4
+
+### Patch Changes
+
+- [#8749](https://github.com/Effect-TS/effect/pull/8749) [`0d92a92`](https://github.com/Effect-TS/effect/commit/0d92a92ab27bdd867e93e98e5a203113c45fbda4) Thanks @mikearnaldi! - Expand `Crypto` with MD5, HMAC creation and constant-time verification, PBKDF2/HKDF/Argon2id derivation, AES-GCM/AES-CTR/RSA-OAEP encryption, and HMAC/RSA-PSS/RSASSA-PKCS1-v1_5/ECDSA/Ed25519 signatures. Add ECDH/X25519 key agreement, key generation, and raw/SPKI/PKCS8/JWK import and export.
+- Updated dependencies [[`7547a99`](https://github.com/Effect-TS/effect/commit/7547a99f81fa6f7e651d52f3d42081f399bfbca8), [`251f849`](https://github.com/Effect-TS/effect/commit/251f8491553f961338ff376f1f39c6d9502f8ec5), [`8f1ea52`](https://github.com/Effect-TS/effect/commit/8f1ea52f0c073daf445adb987d23860dd76a147c), [`c93485e`](https://github.com/Effect-TS/effect/commit/c93485e365555763b8cf043d2e2a1399ac5bb236), [`37e088f`](https://github.com/Effect-TS/effect/commit/37e088f2af8dc03271bb9e2ca2874b750487b0f5), [`9314666`](https://github.com/Effect-TS/effect/commit/93146666ec49cd6831e9c9d5fa0f9bc72730aaa7), [`a0a26b7`](https://github.com/Effect-TS/effect/commit/a0a26b789c5e865a2f2baf0b29b7b369b100d8be), [`cc843ea`](https://github.com/Effect-TS/effect/commit/cc843ea091e68a57d91f39fc51baff094c50e41d), [`a59b971`](https://github.com/Effect-TS/effect/commit/a59b9711aff7b1af8ab3838b23d0981fb53d7a9a), [`fccf660`](https://github.com/Effect-TS/effect/commit/fccf660d83f1db48087cc32da767c43d8e385f64), [`78e4c43`](https://github.com/Effect-TS/effect/commit/78e4c435ede00c7757c3507e60feb821edc85b5f), [`fde67a1`](https://github.com/Effect-TS/effect/commit/fde67a10e9245aa3974ecdca00239de8dfd2cc9f), [`118deef`](https://github.com/Effect-TS/effect/commit/118deefe7c02089b1bc5d202ce3225f05a98cd04), [`cea74c9`](https://github.com/Effect-TS/effect/commit/cea74c92ac839009c6ba112504689d8726f648d7), [`0d92a92`](https://github.com/Effect-TS/effect/commit/0d92a92ab27bdd867e93e98e5a203113c45fbda4), [`b7c1ac6`](https://github.com/Effect-TS/effect/commit/b7c1ac683775f37c78061da3304d37a800d227d6), [`f837966`](https://github.com/Effect-TS/effect/commit/f8379667c914cc5bbc5acfd41eee0090ee247925), [`22e7129`](https://github.com/Effect-TS/effect/commit/22e7129023f15aea70ec3bb5ab92c93aad605b4e), [`fc349a1`](https://github.com/Effect-TS/effect/commit/fc349a13f77c5cc4c94752546913b90be8d0bfaa), [`4a999a3`](https://github.com/Effect-TS/effect/commit/4a999a34e81ef754b959f6ded75b272503bc1163), [`cf5179b`](https://github.com/Effect-TS/effect/commit/cf5179b48867597342ccc9912252ac75637aec06), [`e1c6053`](https://github.com/Effect-TS/effect/commit/e1c6053c5e813596a24793c90cbf732b63c98852), [`5726c65`](https://github.com/Effect-TS/effect/commit/5726c655afff5d0cece2b8ca06fb4a61149246bd)]:
+  - effect@4.0.4
+  - @effect/platform-node-shared@4.0.4
+
 ## 4.0.3
 
 ### Patch Changes
